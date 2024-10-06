@@ -1,0 +1,28 @@
+{
+  "Topwear": [
+    "Tops",
+    "Tshirts",
+    "Rompers",
+    "Lehenga Choli",
+    "Shirts",
+    "Jackets",
+    "Kurtas",
+    "Sweatshirts",
+    "Waistcoat",
+    "Blazers"
+  ],
+  "Bottomwear": [
+    "Capris",
+    "Shorts",
+    "Skirts",
+    "Jeans",
+    "Leggings",
+    "Salwar",
+    "Trousers",
+    "Churidar"
+  ],
+  "Dress": ["Dresses"],
+  "Innerwear": ["Innerwear Vests"],
+  "Socks": ["Booties"],
+  "Apparel Set": ["Clothing Set", "Kurta Sets"]
+}

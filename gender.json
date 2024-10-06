@@ -1,0 +1,40 @@
+{
+  "Girls": [
+    "Tops",
+    "Capris",
+    "Dresses",
+    "Shorts",
+    "Tshirts",
+    "Skirts",
+    "Jeans",
+    "Leggings",
+    "Innerwear Vests",
+    "Rompers",
+    "Lehenga Choli",
+    "Salwar",
+    "Booties",
+    "Clothing Set",
+    "Trousers",
+    "Shirts"
+  ],
+  "Boys": [
+    "Tshirts",
+    "Shirts",
+    "Jeans",
+    "Shorts",
+    "Capris",
+    "Jackets",
+    "Kurtas",
+    "Sweatshirts",
+    "Booties",
+    "Kurta Sets",
+    "Churidar",
+    "Clothing Set",
+    "Waistcoat",
+    "Rompers",
+    "Leggings",
+    "Blazers",
+    "Innerwear Vests",
+    "Trousers"
+  ]
+}
