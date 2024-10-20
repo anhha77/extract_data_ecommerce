@@ -1,0 +1,40 @@
+{
+  "Girls": [
+    "Tops",    // Topwear - G
+    "Capris",  // Bottomwear -G
+    "Dresses", // Dress - G
+    "Shorts",	// Bottomwear - G
+    "Tshirts",	// Topwear - G
+    "Skirts",	// Bottomwear - G
+    "Jeans",	// Bottomwear - G
+    "Leggings", // Bottomwear - G
+    "Innerwear Vests",	// Innerwear - G
+    "Rompers",	// Topwear - G
+    "Lehenga Choli",	// Topwear - G
+    "Salwar",	// Botomwear - G
+    "Booties",	// Socks - G
+    "Clothing Set",	// Apparel Set - G
+    "Trousers",	// Bottomwear - G
+    "Shirts"	// Topwear - G 
+  ],
+  "Boys": [
+    "Tshirts",	// Topwear - B
+    "Shirts",	// Topwear - B
+    "Jeans",	// Bottomwear - B
+    "Shorts",	// Bottomwear - B
+    "Capris",	// Bottomwear - B
+    "Jackets",	// Topwear - B
+    "Kurtas",	// Topwear - B
+    "Sweatshirts",	// Topwear - B
+    "Booties",	// Socks - B
+    "Kurta Sets",	// Apparel Set - B
+    "Churidar",		// Bottomwear - B
+    "Clothing Set",	// Apparel Set - B
+    "Waistcoat",	// Topwear - B
+    "Rompers",		// Topwear - B
+    "Leggings",		// Bottomwear - B
+    "Blazers",		// Topwear - B
+    "Innerwear Vests",	// Innerwear - B
+    "Trousers"		// Bottomwear - B
+  ]
+}
